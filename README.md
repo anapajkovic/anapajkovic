@@ -6,6 +6,7 @@ I aspire to be a marketer in property. I build the tools I use every day with Cl
 
 **Public here**
 - [montenegro-property](https://github.com/anapajkovic/montenegro-property) - Claude plugin with Montenegro new-build projects, buying costs, transfer tax and residency rules
+- [montenegro-buying-costs](https://github.com/anapajkovic/montenegro-buying-costs) - Claude skill for Montenegro buying costs, with a progressive transfer tax calculator
 
 **Find me**
 - [anapajkovic.com](https://anapajkovic.com)
