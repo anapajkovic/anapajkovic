@@ -2,7 +2,7 @@
 
 I'm a licensed property broker in Montenegro and Serbia, based between Belgrade and the Montenegrin coast. I've worked the Montenegro market for 15 years.
 
-I build property launch and sales packages—websites, specification sheets and reels—and use Claude to create the tools I work with every day: offer generators, cadastral parcel lookups, market data pages and a plugin for Montenegro new-builds.
+I build property launch and sales packages (websites, specification sheets and reels) and use Claude to create the tools I work with every day: offer generators, cadastral parcel lookups, market data pages and a plugin for Montenegro new-builds.
 
 **Public here**
 - [montenegro-property](https://github.com/anapajkovic/montenegro-property) - Claude plugin with Montenegro new-build projects, buying costs, transfer tax and residency rules
